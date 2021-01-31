@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/alex/Desktop/kmeans/kmeans/KMeans.cpp
+stdlib.h
+-
+math.h
+-
+time.h
+-
+iostream
+-
+KMeans.h
+/Users/alex/Desktop/kmeans/kmeans/KMeans.h
+
+/Users/alex/Desktop/kmeans/kmeans/KMeans.h
+fstream
+-
+

@@ -1,0 +1,1 @@
+/Users/alex/Desktop/kmeans/kmeans/build/CMakeFiles/kmeans.dir
